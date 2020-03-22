@@ -1,0 +1,6 @@
+framework module Pods_SummonTests {
+  umbrella header "Pods-SummonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

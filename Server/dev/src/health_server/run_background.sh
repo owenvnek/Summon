@@ -1,0 +1,1 @@
+nohup node main.js 2 > output.log &
